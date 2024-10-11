@@ -9,7 +9,7 @@ The *AquaYield Optimizer* is an advanced decision-making tool designed to assist
 
 ## Farmer Journey: Gangaram's Success with AquaYield Optimizer
 
-![Gangaram in his wheat field](./images/gangaram_wheat_field.webp)
+![Gangaram in his wheat field](./Images/gangaram_wheat_field.webp)
 Meet **Gangaram**, a hardworking farmer from Maharashtra. He has been cultivating *wheat* for years, but unpredictable rainfall and rising water costs have made farming a challenge. Like many farmers, Gangaram often found it difficult to decide when and how much to irrigate his fields. Sometimes he would over-water his crops, wasting precious resources, and other times he would under-water them, affecting the yield. But things changed when Gangaram discovered **AquaYield Optimizer**, a tool that uses cutting-edge NASA satellite data and weather forecasting to guide him through his farming journey.
 
 ### Day 1: Getting Started with AquaYield Optimizer
