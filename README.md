@@ -15,7 +15,7 @@ Meet **Gangaram**, a hardworking farmer from Maharashtra. He has been cultivatin
 ### Day 1: Getting Started with AquaYield Optimizer
 
 One morning, Gangaram heard from a fellow farmer about this incredible solution that helps manage water more efficiently using satellite data. Curious, he signed up and entered his crop details into AquaYield Optimizer:
-![Getting_start](./Images/form.jpg)
+![Getting_start](./Images/form.jpeg)
 - **Crop:** Wheat
 - **Soil Type:** Loamy soil
 - **Growth Phase:** Vegetative
