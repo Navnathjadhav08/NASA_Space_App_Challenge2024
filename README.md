@@ -60,7 +60,7 @@ Gangaram’s success story is just one example of how AquaYield Optimizer is rev
 
 ## How It Works  
 
-![Flow_Diagram](./Images/flow.pngg)
+![Flow_Diagram](./Images/Flowchart.png)
 1. **Data Collection:**
    - Soil moisture data is collected from NASA's SMAP satellite.
    - Weather forecasting, including rainfall predictions, is sourced from the Meteomatics NASA API.
