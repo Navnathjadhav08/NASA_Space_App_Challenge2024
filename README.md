@@ -15,7 +15,7 @@ Meet **Gangaram**, a hardworking farmer from Maharashtra. He has been cultivatin
 ### Day 1: Getting Started with AquaYield Optimizer
 
 One morning, Gangaram heard from a fellow farmer about this incredible solution that helps manage water more efficiently using satellite data. Curious, he signed up and entered his crop details into AquaYield Optimizer:
-
+![Getting_start](./Images/form.jpg)
 - **Crop:** Wheat
 - **Soil Type:** Loamy soil
 - **Growth Phase:** Vegetative
@@ -25,7 +25,7 @@ Within moments, the platform pulled real-time **soil moisture data** from NASAâ€
 ### Day 2: Smart Irrigation Advice
 
 A few days later, Gangaram received an alert from AquaYield Optimizer. Rain was forecasted in his area in the next 48 hours. Instead of irrigating his field as usual, the platform suggested waiting for the rain. Gangaram was relieved, knowing that this advice would save him water and money.
-
+![Getting_start](./Images/analysis.jpg)
 Sure enough, it rained two days later, just as predicted. AquaYield Optimizer reassessed the soil moisture after the rain and sent Gangaram a new irrigation plan, reducing water usage without compromising the health of his wheat crop.
 
 ### Week 3: Monitoring Crop Health
