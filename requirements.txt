@@ -3,3 +3,4 @@ pandas==2.1.0  # For handling data frames and CSV files
 numpy==1.25.2  # For numerical calculations
 python-dotenv==1.0.0  # For loading environment variables
 google-generativeai==0.1.0  # For interacting with the Google Gemini API
+gunicorn
